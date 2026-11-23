@@ -8,7 +8,9 @@ This repository showcases my certifications in **Data Analytics**, awarded by **
 **Platform:** Coursera  
 **Credential:** Google Data Analytics Professional Certificate
 
-Successfully completed the full Google Data Analytics Professional Certificate program, covering the end-to-end data analysis process, including:
+🔗 [View Certificate & Verify Credential](https://www.coursera.org/account/accomplishments/professional-cert/5SSMXZJ044AZ)
+
+Successfully completed the professional certificate program, covering data collection, cleaning, analysis, visualization, and communicating insights to support business decisions.
 
 - Asking the right business questions
 - Data collection, cleaning, and preparation

@@ -27,16 +27,26 @@ Covers the full analysis process:
 
 - Advanced Excel for Data Analysis (Credly): [verify](https://www.credly.com/badges/3f2b6dce-5679-4814-afc4-07763332cd3d/public_url)
 
-## Skills Covered
+## Core Skills
+
+Applied in practice on the [Timber Management System](https://github.com/mohamedzalat412/Timber-Management-System) project.
+
+- Business analysis and business process mapping
+- Requirements, business rules and acceptance criteria
+- Workflow design and operational improvement
+- Digital transformation of manual and spreadsheet-based processes
+- Product ownership and phased delivery
+
+## Skills from These Certifications
 
 - Data analysis with Excel
 - Data visualization with Excel and Cognos
 - Business intelligence fundamentals
 - Business problem solving with data
 
-## Currently Learning
+## Currently Developing
 
-SQL · Power BI · Python
+Business fundamentals and business analysis · Operations and process improvement · Management and project management
 
 ## Applied in Practice
 

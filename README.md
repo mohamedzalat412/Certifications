@@ -1,6 +1,6 @@
 # 📜 Certifications in Data Analytics  
 
-This repository showcases my certifications in **Data Analytics**, awarded by **IBM through Coursera**. These certifications validate my expertise in **Excel, Data Visualization, and Business Intelligence**.  
+Certificates and courses I completed in data analytics. They form the foundation for my work in business and data analysis.
 
 ## 🎓 Google Data Analytics Professional Certificate
 

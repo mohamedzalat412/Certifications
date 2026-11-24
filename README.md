@@ -2,11 +2,12 @@
 
 Certificates and courses I completed in data analytics. They form the foundation for my work in business and data analysis.
 
-## Google Data Analytics Professional Certificate
+## Google Data Analytics Professional Certificate (v.3)
 
-**Provider:** Google · **Platform:** Coursera
+**Provider:** Google · **Issued via:** Coursera · **Issued:** January 2026
 
-[View and verify credential](https://www.coursera.org/account/accomplishments/professional-cert/5SSMXZJ044AZ)
+- [View certificate on Coursera](PASTE-COURSERA-LINK)
+- [Verify badge on Credly](https://www.credly.com/badges/60088c49-2ad2-40fb-a933-fbb18466e332/public_url)
 
 Covers the full analysis process:
 

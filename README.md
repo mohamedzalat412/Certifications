@@ -24,7 +24,7 @@ Covers the full analysis process:
 
 ## Additional Certificate
 
-- Advanced Excel for Data Analysis (Credly): [verify](PUT-YOUR-EXISTING-LINK-HERE)
+- Advanced Excel for Data Analysis (Credly): [verify](https://www.credly.com/badges/3f2b6dce-5679-4814-afc4-07763332cd3d/public_url)
 
 ## Skills Covered
 
